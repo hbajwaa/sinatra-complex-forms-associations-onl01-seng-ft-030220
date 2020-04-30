@@ -2,3 +2,7 @@
 sophie = Owner.create(name: "Sophie")
 Pet.create(name: "Maddy", owner: sophie)
 Pet.create(name: "Nona", owner: sophie)
+
+
+phepe = Owner.create(name: "Phepe")
+Pet.create(name: "Tom", owner: phepe)
